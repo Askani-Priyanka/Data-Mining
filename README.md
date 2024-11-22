@@ -25,7 +25,8 @@ This guide explains how to set up and execute the `demo.py` script in a Google C
 
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Create a new notebook.
-3. Upload the following files:
+3. Connect to a GPU runtime.
+4. Upload the following files:
    - `demo.py`
    - `resnet34_cifar10_checkpoint.pth` - https://drive.google.com/drive/folders/1KC69I7xvrrNorvFtKP_r9HiQyLz3-Xxb
 
