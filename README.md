@@ -27,7 +27,7 @@ This guide explains how to set up and execute the `demo.py` script in a Google C
 2. Create a new notebook.
 3. Upload the following files:
    - `demo.py`
-   - `resnet34_cifar10_checkpoint.pth`
+   - `resnet34_cifar10_checkpoint.pth` - https://drive.google.com/drive/folders/1KC69I7xvrrNorvFtKP_r9HiQyLz3-Xxb
 
 ### Step 2: Install Required Libraries
 
